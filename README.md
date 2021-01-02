@@ -1,16 +1,32 @@
-### Hi there 👋
+### Hi 👋, I'm [Sanat B Singh](https://snatsingh.github.io)
+#### COMPUTER VISION ENGINEER || MACHINE LEARNING RESEARCHER || SOFTWARE DEVELOPER || TECH ENTHUSIAST
 
-<!--
-**sanatsingh/sanatsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently : Undergrad Research Intern @ University of Houston - Downtown
 
-Here are some ideas to get you started:
+Interested in everything and anything remotely related to tech be it latest CPUs, GPUs or TVs... open to healthy discussions & debates.
+Always out to help/guide by sharing my personal experiences and point of views, feel free to connect.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔭 Currently working on:
+- Clean and reproducible implementation of Deep Learning Research Papers
+- PointCloud Classification and Segmentation
+- EEG Signals
+- Sign Language Translation
+
+### ⚡ Key Projects:
+- [ZYIK.ML - Artificial Intelligence based Healthcare Platform](https://zyik.ml/)
+- [MEDICO - A COVID-19 Patient Monitoring Dashboard System](http://zyik-medico.herokuapp.com/index.html)
+- [MOSQUITO-NET - A Deep Learning based CADx system for Malaria Diagnosis](https://drive.google.com/file/d/1OoCqThpsm9N38eUTGNmxwRhVat8IxWVl/view) - *ICML 2020, MLGH Workshop Poster*
+
+### 🌱 Currently learning
+#### I'm *always learning*. Too long a list to mention. 
+
+### 💬 Reach out to me :
+- for help regarding some Deep Learning project
+- if you want to [hire me] 
+
+### 📫 How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/sanatbsingh/)
+- [Twitter](https://twitter.com/netdrop78)
+- [Website](https://sanatsingh.github.io/)
