@@ -7,6 +7,10 @@ Interested in everything and anything remotely related to tech be it latest CPUs
 Always out to help/guide by sharing my personal experiences and point of views, feel free to connect.
 
 ---
+### ✨ Research Interests
+- Computer Vision, NLP, Deep Learning
+- BioMedical Imaging, AI for Social Good
+- SLAM (new to this)
 
 ### 🔭 Currently working on:
 - Clean and reproducible implementation of Deep Learning Research Papers
@@ -24,7 +28,7 @@ Always out to help/guide by sharing my personal experiences and point of views, 
 
 ### 💬 Reach out to me :
 - for help regarding some Deep Learning project
-- if you want to [hire me] 
+- if you want to [hire me](https://sanatbsingh.ml/files/cv.pdf)
 
 ### 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/sanatbsingh/)
