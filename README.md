@@ -16,7 +16,7 @@ Always out to help/guide by sharing my personal experiences and point of views, 
 - Clean and reproducible implementation of Deep Learning Research Papers
 - PointCloud Classification and Segmentation
 - EEG Signals
-- Sign Language Translation
+- 3D Segmentation
 
 ### ⚡ Key Projects:
 - [ZYIK.ML - Artificial Intelligence based Healthcare Platform](https://zyik.ml/)
