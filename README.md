@@ -15,7 +15,6 @@ Always out to help/guide by sharing my personal experiences and point of views, 
 ### 🔭 Currently working on:
 - Clean and reproducible implementation of Deep Learning Research Papers
 - DL pipelines & System Design
-- PointCloud Classification and Segmentation
 - 3D Segmentation
 
 ### ⚡ Key Projects:
