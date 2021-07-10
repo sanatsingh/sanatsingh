@@ -1,11 +1,4 @@
 ### Hi 👋, I'm [Sanat B Singh](https://snatsingh.github.io)
-#### COMPUTER VISION ENGINEER || MACHINE LEARNING RESEARCHER || SOFTWARE DEVELOPER || TECH ENTHUSIAST
-
-Currently : Undergrad Research Intern @ University of Houston - Downtown
-
-Interested in everything and anything remotely related to tech be it latest CPUs, GPUs or TVs... open to healthy discussions & debates.
-Always out to help/guide by sharing my personal experiences and point of views, feel free to connect.
-
 ---
 ### ✨ Research Interests
 - Computer Vision, NLP, Deep Learning
