@@ -1,14 +1,31 @@
-### Hi 👋, I'm [Sanat B Singh](https://snatsingh.github.io)
+## Hi 👋, I'm [Sanat B Singh](https://sanatsingh.github.io)
+### Applied AI @ Deloitte USI
+
+<a href="https://www.linkedin.com/in/sanatbsingh/">
+      <img src="https://img.shields.io/badge/LinkedIn-Sanat--B--Singh-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5"/>
+</a>
+
+ <a href="mailto:sanat.b.singh99@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-sanat.b.singh99@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836"/>
+  </a>
+
+<a href="https://github.com/sanatsingh">
+  <img src="https://img.shields.io/badge/Github-sanatsingh-informational?style=for-the-badge&labelColor=black&logo=github&color=7d88e6">
+  </a>
+  
+  <a href="https://twitter.com/netdrop78">
+  <img src="https://img.shields.io/badge/Twitter-@netdrop78-informational?style=for-the-badge&labelColor=black&logo=twitter&logoColor=#1DA1F2&color=1da1f2">
+  </a>
+
 ---
 ### ✨ Research Interests
 - Computer Vision, NLP, Deep Learning
-- BioMedical Imaging, AI for Social Good
 
 
 ### 🔭 Currently working on:
 - Clean and reproducible implementation of Deep Learning Research Papers
 - DL pipelines & System Design
-- 3D Segmentation
+- 3D Segmentation & Classification
 
 ### ⚡ Key Projects:
 - [ZYIK.ML - Artificial Intelligence based Healthcare Platform](https://zyikml.ml/)
