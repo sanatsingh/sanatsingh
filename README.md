@@ -1,5 +1,5 @@
 ## Hi 👋, I'm [Sanat B Singh](https://sanatsingh.github.io)
-### Applied AI @ Deloitte USI
+### MLE / Data Scientist (Applied AI, Level : Analyst) @ Deloitte USI
 
 <a href="https://www.linkedin.com/in/sanatbsingh/">
       <img src="https://img.shields.io/badge/LinkedIn-Sanat--B--Singh-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5"/>
