@@ -21,11 +21,9 @@
 ### ✨ Research Interests
 - Computer Vision, NLP, Deep Learning
 
-
 ### 🔭 Currently working on:
 - Clean and reproducible implementation of Deep Learning Research Papers
 - DL pipelines & System Design
-- 3D Segmentation & Classification
 
 ### ⚡ Key Projects:
 - [ZYIK.ML - Artificial Intelligence based Healthcare Platform](https://zyikml.ml/)
@@ -33,7 +31,7 @@
 - [MOSQUITO-NET - A Deep Learning based CADx system for Malaria Diagnosis](https://drive.google.com/file/d/1OoCqThpsm9N38eUTGNmxwRhVat8IxWVl/view) - *ICML 2020, MLGH Workshop Poster*
 
 ### 🌱 Currently learning
-- #### I'm *always learning*. Too long a list to mention but most recently DL pipelines & System Design 
+- #### I'm *always learning*. 
 
 ### 💬 Reach out to me :
 - for help regarding some Deep Learning project
