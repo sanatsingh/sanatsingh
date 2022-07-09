@@ -31,8 +31,8 @@
 - [MOSQUITO-NET - A Deep Learning based CADx system for Malaria Diagnosis](https://drive.google.com/file/d/1OoCqThpsm9N38eUTGNmxwRhVat8IxWVl/view) - *ICML 2020, MLGH Workshop Poster*
 
 ### 🌱 Currently learning
-- #### ML System Design & Cost estimation for projects.
-- #### Will start learning JAX 
+- ML System Design & Cost estimation for projects.
+- Will start learning JAX 
 
 ### 🔮 Future goals:
 - Showcase work publicly (too much of private repos), connect more socially & get into open source
