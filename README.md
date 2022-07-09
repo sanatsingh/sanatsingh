@@ -22,19 +22,27 @@
 - Computer Vision, NLP, Deep Learning
 
 ### 🔭 Currently working on:
-- Clean and reproducible implementation of Deep Learning Research Papers
+- Solving problems using AI in different domains/sectors
 - DL pipelines & System Design
 
-### ⚡ Key Projects:
+### ⚡ Key Projects (Personal):
 - [ZYIK.ML - Artificial Intelligence based Healthcare Platform](https://zyikml.ml/)
 - [MEDICO - A COVID-19 Patient Monitoring Dashboard System](http://zyik-medico.herokuapp.com/index.html)
 - [MOSQUITO-NET - A Deep Learning based CADx system for Malaria Diagnosis](https://drive.google.com/file/d/1OoCqThpsm9N38eUTGNmxwRhVat8IxWVl/view) - *ICML 2020, MLGH Workshop Poster*
 
 ### 🌱 Currently learning
-- #### I'm *always learning*. 
+- #### ML System Design & Cost estimation for projects.
+- #### Will start learning JAX 
+
+### 🔮 Future goals:
+- Showcase work publicly (too much of private repos), connect more socially & get into open source
+- Start making kaggle notebooks (used kaggle for data multiple times, never made a single notebook on it)
+<!---
+This will be my public commitment so as to push myself
+-->
 
 ### 💬 Reach out to me :
-- for help regarding some Deep Learning project
+- for help regarding some Deep Learning project or some discussion/conversation
 - if you want to [hire me](https://sanatbsingh.ml/files/cv.pdf)
 
 ### 📫 How to reach me:
