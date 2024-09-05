@@ -1,5 +1,5 @@
 ## Hi 👋, I'm [Sanat B Singh](https://sanatsingh.github.io)
-### MLE / Data Scientist (Applied AI, Level : Consultant) @ Deloitte USI
+### AI Engineer @ ETS GCC - FSL 
 
 <a href="https://www.linkedin.com/in/sanatbsingh/">
       <img src="https://img.shields.io/badge/LinkedIn-Sanat--B--Singh-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5"/>
@@ -19,7 +19,7 @@
 
 ---
 ### ✨ Research Interests
-- Computer Vision, NLP, Deep Learning
+- Multimodal AI, Computer Vision, NLP, Deep Learning
 
 ### 🔭 Currently working on:
 - Solving problems using AI in different domains/sectors
@@ -31,8 +31,8 @@
 - [MOSQUITO-NET - A Deep Learning based CADx system for Malaria Diagnosis](https://drive.google.com/file/d/1OoCqThpsm9N38eUTGNmxwRhVat8IxWVl/view) - *ICML 2020, MLGH Workshop Poster*
 
 ### 🌱 Currently learning
-- ML System Design & Cost estimation for projects.
-- Will start learning JAX 
+- Multimodal AI, ML System Design & Cost estimation for projects.
+- Will **definitely** start learning JAX 
 
 ### 🔮 Future goals:
 - Showcase work publicly (too much of private repos), connect more socially & get into open source
