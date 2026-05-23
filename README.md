@@ -30,6 +30,7 @@ I'm an AI Engineer and Tech Lead focused on **Agentic AI**, **Generative Systems
 
 ### ✨ Research & Publications
 - **[Wiley Expert Systems - SCI]** MOSQUITO-NET: A deep learning based CADx system for malaria diagnosis · [DOI: 10.1111/exsy.12695](https://doi.org/10.1111/exsy.12695) · [Poster @ ICML 2020 MLGH Workshop](https://drive.google.com/file/d/1OoCqThpsm9N38eUTGNmxwRhVat8IxWVl/view)
+- **[NARST 2026]** Using Multi-Student, Generative AI Teaching Simulations as Practice Spaces for Facilitating Science Discussions · 2026 NARST Annual International Conference, Seattle WA
 - **[Book Chapter]** Zyik.ML - A CADx System, *Project Innovation Contest 2021 Proceedings*
 - Guest Reviewer, *Multimedia Systems* (Springer)
 
