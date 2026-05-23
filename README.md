@@ -1,49 +1,49 @@
-## Hi 👋, I'm [Sanat B Singh](https://sanatsingh.github.io)
-### AI Engineer @ ETS GCC - FSL 
+## Hi, I'm [Sanat B Singh](https://sanatsingh.github.io)
+### AI Engineer & Tech Lead · World Models · Agentic Systems · Generative AI
 
-<a href="https://www.linkedin.com/in/sanatbsingh/">
-      <img src="https://img.shields.io/badge/LinkedIn-Sanat--B--Singh-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5"/>
-</a>
-
- <a href="mailto:sanat.b.singh99@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-sanat.b.singh99@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836"/>
-  </a>
-
-<a href="https://github.com/sanatsingh">
-  <img src="https://img.shields.io/badge/Github-sanatsingh-informational?style=for-the-badge&labelColor=black&logo=github&color=7d88e6">
-  </a>
-  
-  <a href="https://twitter.com/netdrop78">
-  <img src="https://img.shields.io/badge/Twitter-@netdrop78-informational?style=for-the-badge&labelColor=black&logo=twitter&logoColor=#1DA1F2&color=1da1f2">
-  </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sanatbsingh-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sanatbsingh/)
+[![Gmail](https://img.shields.io/badge/Gmail-sanat.b.singh99-red?style=flat&logo=gmail)](mailto:sanat.b.singh99@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-sanatsingh-black?style=flat&logo=github)](https://github.com/sanatsingh)
+[![Twitter](https://img.shields.io/badge/Twitter-netdrop78-1DA1F2?style=flat&logo=twitter)](https://twitter.com/netdrop78)
 
 ---
-### ✨ Research Interests
-- Multimodal AI, Computer Vision, NLP, Deep Learning
 
-### 🔭 Currently working on:
-- GenAI-based Skill Assessment & Scoring Engines 
-- Immersive Experiences
-- Personal Pet Projects
+I'm an AI Engineer and Tech Lead focused on **Agentic AI**, **Generative Systems**, and - on the research frontier - **World Models**. At ETS GCC (the org behind TOEFL and GRE), I co-lead product development across agentic systems, assessment simulation, and generative AI. Previously at Deloitte USI - fine-tuning LLMs on DGX H100 clusters and shipping edge vision pipelines on Jetson AGX Orin.
 
+---
+
+### 🔭 Currently building
+
+**@ Work** *(ETS GCC)*
+- End-to-end platform and framework/library for interactive assessment - spanning simulation development, skill practice, and deployment at scale
+- SLMs fine-tuned with PEFT for scoring and feedback
+- Multi-agent prompt generation, evaluation, and benchmarking systems
+
+**@ Personal**
+- **Brahmandam** *(open-source, coming soon)* - PyTorch toolkit for training controllable world models from video game environments; causal, action-conditioned, intervention-aware. Early sub-1B parameter models already trained.
+- **Shortlist** - AI screening layer for early-stage investors; deep research agents build investor thesis profiles and deploy an AI persona to conduct structured async founder conversations, surfacing signal from noise at inbox scale
 
 ### 🌱 Currently exploring
-- RL in NLP
-- GPU programming
+- Reinforcement Learning
+- World Models and Causal Representation Learning
+- GPU programming & CUDA optimization
 
-### 🔮 Future goals:
-- Build impactful things
-- Build out of curosity
-- Build for myself andd others
-<!---
-This will be my public commitment so as to push myself - Once again 
--->
+### ✨ Research & Publications
+- **[Wiley Expert Systems - SCI]** MOSQUITO-NET: A deep learning based CADx system for malaria diagnosis · [DOI: 10.1111/exsy.12695](https://doi.org/10.1111/exsy.12695) · [Poster @ ICML 2020 MLGH Workshop](https://drive.google.com/file/d/1OoCqThpsm9N38eUTGNmxwRhVat8IxWVl/view)
+- **[Book Chapter]** Zyik.ML - A CADx System, *Project Innovation Contest 2021 Proceedings*
+- Guest Reviewer, *Multimedia Systems* (Springer)
 
-### 💬 Reach out to me :
-- for help regarding some Deep Learning project or some discussion/conversation
-- if you want to hire me
+### 🏆 Recognition
+- **#11 at VibeCon India 2025** - top 20 from 25,000 teams (Emergent), with [Soumik Rakshit](https://github.com/soumik12345) and [Atanu Sarkar](https://github.com/mratanusarkar)
+- Selected for Johns Hopkins CBID Covid-19 Virtual Design Challenge
+- AWS Activate - Zyik.ML (healthcare AI startup, co-founded)
 
-### 📫 How to reach me:
+### 💬 Happy to connect about
+- World Models, Agentic AI, or Generative Systems
+- Deep Learning research and Applied ML problems
+- Collaborations and interesting problems at the frontier of AI
+
+### 📫 Reach me
 - [LinkedIn](https://www.linkedin.com/in/sanatbsingh/)
 - [Twitter](https://twitter.com/netdrop78)
 - [Mail](mailto:sanat.b.singh99@gmail.com)
