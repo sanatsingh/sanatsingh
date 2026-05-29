@@ -20,7 +20,7 @@ I'm an AI Engineer and Tech Lead focused on **Agentic AI**, **Generative Systems
 - Multi-agent prompt generation, evaluation, and benchmarking systems
 
 **@ Personal**
-- **Brahmandam** *(open-source, coming soon)* - PyTorch toolkit for training controllable world models from video game environments; causal, action-conditioned, intervention-aware. Early sub-1B parameter models already trained.
+- Actively researching and experimenting with **World Models** — causal, action-conditioned, intervention-aware generative systems
 - **Shortlist** - AI screening layer for early-stage investors; deep research agents build investor thesis profiles and deploy an AI persona to conduct structured async founder conversations, surfacing signal from noise at inbox scale
 
 ### 🌱 Currently exploring
